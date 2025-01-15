@@ -1,0 +1,39 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #f8d7da; 
+  color: #f8f673; 
+}
+
+.words{
+  border: 1px solid #fce9ea; 
+  border-radius: 20px;
+  padding: 2vh;
+  width: 5rem;
+  color: #f8f9fa; /* Yellow text color */
+
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  background-color: #f5c6cb; 
+  border-radius: 10px;
+  padding: 1rem;
+}
+h1{
+  position: relative;
+  bottom: 20vh;
+  color: #f4f3a7;
+}
+
+#new{
+  background-color: #f5c6cb; 
+  color: white;
+  margin-top: 2vh;
+}
